@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunil Tomar
 
-🎯 **Senior Software Engineer @ Cashfree Payments**  
+🎯 **Senior Software Engineer (SDE 3) @ Cashfree Payments**  
 🔧 Java (Spring Boot) • GoLang • Kubernetes • AWS • High-Scale Systems  
 🎓 B.Tech, IIT Kanpur | 6+ years of backend & infra engineering experience  
 
@@ -32,16 +32,28 @@ I'm a backend engineer passionate about building **high-performance, scalable sy
 
 ## 💼 Featured Projects
 
-Here are a few open-source or sanitized versions of what I’ve worked on:
+These are selected projects, some built from scratch and others inspired by real-world work experience:
 
-| Project | Description | Tech |
-|--------|-------------|------|
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
 | [Rate Limiter in Go](https://github.com/tomarji852/rate-limiter-go) | Custom QPS-based rate-limiting service with Redis backend | GoLang, Redis, K8s |
 | [ErrorCommons](https://github.com/tomarji852/errorcommons) | Shared error-handling library with YAML-configured error messages | GoLang, Java |
 | [Transaction Reporter](https://github.com/tomarji852/transaction-reporter) | Scheduled and on-demand reporting service for transactions | Java, Spring Boot |
 | [Vault Secret Migrator](https://github.com/tomarji852/vault-migrator) | Utility for migrating K8s secrets to Vault | GoLang, Vault API |
 | [Parking Lot System](https://github.com/tomarji852/ParkingLotProblem) | System design problem solving | Java |
 | [Vending Machine Design](https://github.com/tomarji852/VendingMachine) | Object-oriented design and APIs for vending machine | Java |
+
+---
+
+## 🧪 Project based on work experience in Cashfree
+
+| Project Idea | Tech Stack | Description |
+| --- | --- | --- |
+| `rate-limiter-go` | GoLang, Redis | Lightweight rate limiter with QPS control and K8s deployment |
+| `errorcommons-go` | GoLang, YAML | Centralized error formatting and message resolver |
+| `transaction-reporter` | Java 17, Spring Boot, RabbitMQ | On-demand + scheduled transaction reporting microservice |
+| `vault-migrator` | GoLang, Vault API | CLI to sync secrets from K8s → Vault securely |
+| `incident-alert-manager` | Java, Prometheus, Slack API | Incident alert orchestration system with Slack/Email integrations |
 
 ---
 
