@@ -71,6 +71,8 @@ These are selected projects, some built from scratch and others inspired by real
 - 💻 [GitHub](https://github.com/tomarji852)
 - 📧 tomarji852@gmail.com
 
+📄 [Download My Resume (PDF)](https://github.com/username/portfolio/blob/main/Sunil_Tomar_Resume.pdf)
+
 ---
 
 _Thanks for visiting my portfolio! Feel free to check out my projects or reach out for collaboration._
